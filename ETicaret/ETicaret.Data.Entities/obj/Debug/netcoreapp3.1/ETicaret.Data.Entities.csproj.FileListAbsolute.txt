@@ -1,0 +1,14 @@
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\bin\Debug\netcoreapp3.1\ETicaret.Data.Entities.deps.json
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\bin\Debug\netcoreapp3.1\ETicaret.Data.Entities.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\bin\Debug\netcoreapp3.1\ETicaret.Data.Entities.pdb
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\obj\Debug\netcoreapp3.1\ETicaret.Data.Entities.csprojAssemblyReference.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\obj\Debug\netcoreapp3.1\ETicaret.Data.Entities.AssemblyInfoInputs.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\obj\Debug\netcoreapp3.1\ETicaret.Data.Entities.AssemblyInfo.cs
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\obj\Debug\netcoreapp3.1\ETicaret.Data.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\obj\Debug\netcoreapp3.1\ETicaret.Data.Entities.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\obj\Debug\netcoreapp3.1\ETicaret.Data.Entities.pdb
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\bin\Debug\netcoreapp3.1\ETicaret.Common.Contracts.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\bin\Debug\netcoreapp3.1\ETicaret.Data.Entity.Abstractions.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\bin\Debug\netcoreapp3.1\ETicaret.Common.Contracts.pdb
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\bin\Debug\netcoreapp3.1\ETicaret.Data.Entity.Abstractions.pdb
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entities\obj\Debug\netcoreapp3.1\ETicaret.Data.Entities.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entity.Abstractions\bin\Debug\netcoreapp3.1\ETicaret.Data.Entity.Abstractions.deps.json
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entity.Abstractions\bin\Debug\netcoreapp3.1\ETicaret.Data.Entity.Abstractions.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entity.Abstractions\bin\Debug\netcoreapp3.1\ETicaret.Data.Entity.Abstractions.pdb
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entity.Abstractions\obj\Debug\netcoreapp3.1\ETicaret.Data.Entity.Abstractions.AssemblyInfoInputs.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entity.Abstractions\obj\Debug\netcoreapp3.1\ETicaret.Data.Entity.Abstractions.AssemblyInfo.cs
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entity.Abstractions\obj\Debug\netcoreapp3.1\ETicaret.Data.Entity.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entity.Abstractions\obj\Debug\netcoreapp3.1\ETicaret.Data.Entity.Abstractions.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Data.Entity.Abstractions\obj\Debug\netcoreapp3.1\ETicaret.Data.Entity.Abstractions.pdb

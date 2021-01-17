@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ETicaret.Common.Contracts\ETicaret.Common.Contracts.csproj" />
+    <ProjectReference Include="..\ETicaret.Data.Entity.Abstractions\ETicaret.Data.Entity.Abstractions.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ETicaret.Data.Entity.Abstractions/1.0.0": {
+        "runtime": {
+          "ETicaret.Data.Entity.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ETicaret.Data.Entity.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

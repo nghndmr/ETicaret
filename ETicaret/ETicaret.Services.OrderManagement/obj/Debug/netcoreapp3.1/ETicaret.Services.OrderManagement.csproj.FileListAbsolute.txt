@@ -1,0 +1,9 @@
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.OrderManagement\bin\Debug\netcoreapp3.1\ETicaret.Services.OrderManagement.deps.json
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.OrderManagement\bin\Debug\netcoreapp3.1\ETicaret.Services.OrderManagement.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.OrderManagement\bin\Debug\netcoreapp3.1\ETicaret.Services.OrderManagement.pdb
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.OrderManagement\obj\Debug\netcoreapp3.1\ETicaret.Services.OrderManagement.csprojAssemblyReference.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.OrderManagement\obj\Debug\netcoreapp3.1\ETicaret.Services.OrderManagement.AssemblyInfoInputs.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.OrderManagement\obj\Debug\netcoreapp3.1\ETicaret.Services.OrderManagement.AssemblyInfo.cs
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.OrderManagement\obj\Debug\netcoreapp3.1\ETicaret.Services.OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.OrderManagement\obj\Debug\netcoreapp3.1\ETicaret.Services.OrderManagement.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.OrderManagement\obj\Debug\netcoreapp3.1\ETicaret.Services.OrderManagement.pdb

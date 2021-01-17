@@ -1,0 +1,8 @@
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Common.Contracts\bin\Debug\netcoreapp3.1\ETicaret.Common.Contracts.deps.json
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Common.Contracts\bin\Debug\netcoreapp3.1\ETicaret.Common.Contracts.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Common.Contracts\bin\Debug\netcoreapp3.1\ETicaret.Common.Contracts.pdb
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Common.Contracts\obj\Debug\netcoreapp3.1\ETicaret.Common.Contracts.AssemblyInfoInputs.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Common.Contracts\obj\Debug\netcoreapp3.1\ETicaret.Common.Contracts.AssemblyInfo.cs
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Common.Contracts\obj\Debug\netcoreapp3.1\ETicaret.Common.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Common.Contracts\obj\Debug\netcoreapp3.1\ETicaret.Common.Contracts.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Common.Contracts\obj\Debug\netcoreapp3.1\ETicaret.Common.Contracts.pdb

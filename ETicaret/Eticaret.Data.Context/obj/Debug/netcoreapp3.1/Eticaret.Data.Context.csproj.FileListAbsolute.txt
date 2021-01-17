@@ -1,0 +1,8 @@
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\Eticaret.Data.Context\bin\Debug\netcoreapp3.1\Eticaret.Data.Context.deps.json
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\Eticaret.Data.Context\bin\Debug\netcoreapp3.1\Eticaret.Data.Context.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\Eticaret.Data.Context\bin\Debug\netcoreapp3.1\Eticaret.Data.Context.pdb
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\Eticaret.Data.Context\obj\Debug\netcoreapp3.1\Eticaret.Data.Context.csprojAssemblyReference.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\Eticaret.Data.Context\obj\Debug\netcoreapp3.1\Eticaret.Data.Context.AssemblyInfoInputs.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\Eticaret.Data.Context\obj\Debug\netcoreapp3.1\Eticaret.Data.Context.AssemblyInfo.cs
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\Eticaret.Data.Context\obj\Debug\netcoreapp3.1\Eticaret.Data.Context.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\Eticaret.Data.Context\obj\Debug\netcoreapp3.1\Eticaret.Data.Context.pdb

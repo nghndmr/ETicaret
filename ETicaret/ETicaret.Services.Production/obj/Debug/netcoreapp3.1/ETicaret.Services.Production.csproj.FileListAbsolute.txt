@@ -1,0 +1,9 @@
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.Production\bin\Debug\netcoreapp3.1\ETicaret.Services.Production.deps.json
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.Production\bin\Debug\netcoreapp3.1\ETicaret.Services.Production.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.Production\bin\Debug\netcoreapp3.1\ETicaret.Services.Production.pdb
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.Production\obj\Debug\netcoreapp3.1\ETicaret.Services.Production.csprojAssemblyReference.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.Production\obj\Debug\netcoreapp3.1\ETicaret.Services.Production.AssemblyInfoInputs.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.Production\obj\Debug\netcoreapp3.1\ETicaret.Services.Production.AssemblyInfo.cs
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.Production\obj\Debug\netcoreapp3.1\ETicaret.Services.Production.csproj.CoreCompileInputs.cache
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.Production\obj\Debug\netcoreapp3.1\ETicaret.Services.Production.dll
+C:\Users\nagihan.demir4\source\repos\ETicaret\ETicaret\ETicaret.Services.Production\obj\Debug\netcoreapp3.1\ETicaret.Services.Production.pdb

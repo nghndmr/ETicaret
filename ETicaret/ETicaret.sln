@@ -13,17 +13,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "client", "client", "{85EBCB
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{9A51922E-4D47-4E42-AA50-C3B2D07E7847}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Api", "ETicaret.Api\ETicaret.Api.csproj", "{89682152-5080-4ADC-B9D2-4DED798C6DAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.Api", "ETicaret.Api\ETicaret.Api.csproj", "{89682152-5080-4ADC-B9D2-4DED798C6DAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Web", "ETicaret.Web\ETicaret.Web.csproj", "{8491F53D-5ABF-483F-B663-768ABBAC66C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.Web", "ETicaret.Web\ETicaret.Web.csproj", "{8491F53D-5ABF-483F-B663-768ABBAC66C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Data.Entities", "ETicaret.Data.Entities\ETicaret.Data.Entities.csproj", "{14D97523-979B-40E6-A0DC-B3B1143DBAAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.Data.Entities", "ETicaret.Data.Entities\ETicaret.Data.Entities.csproj", "{14D97523-979B-40E6-A0DC-B3B1143DBAAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticaret.Data.Context", "Eticaret.Data.Context\Eticaret.Data.Context.csproj", "{065757AC-88E3-4C70-9207-88C0BE392251}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eticaret.Data.Context", "Eticaret.Data.Context\Eticaret.Data.Context.csproj", "{065757AC-88E3-4C70-9207-88C0BE392251}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Services.Production", "ETicaret.Services.Production\ETicaret.Services.Production.csproj", "{986C7332-64E2-44C4-A307-CCCA2AF7B6DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.Services.Production", "ETicaret.Services.Production\ETicaret.Services.Production.csproj", "{986C7332-64E2-44C4-A307-CCCA2AF7B6DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Services.OrderManagement", "ETicaret.Services.OrderManagement\ETicaret.Services.OrderManagement.csproj", "{14F6B1C7-763A-4B6A-B0AE-C0FA7B7F1C9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.Services.OrderManagement", "ETicaret.Services.OrderManagement\ETicaret.Services.OrderManagement.csproj", "{14F6B1C7-763A-4B6A-B0AE-C0FA7B7F1C9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Data.Entity.Abstractions", "ETicaret.Data.Entity.Abstractions\ETicaret.Data.Entity.Abstractions.csproj", "{68406F15-F093-4E23-A107-5B9E66C568BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{12F5977D-1262-41FF-A72F-F25D311E327E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{BD40B2B0-9796-4EC5-AB63-AFB5802402B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{72F0D1F3-ABD9-40E8-A2BE-749627ABED70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Common.Contracts", "ETicaret.Common.Contracts\ETicaret.Common.Contracts.csproj", "{AE3DD580-B6DA-49F9-AD95-10A207B307E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +65,14 @@ Global
 		{14F6B1C7-763A-4B6A-B0AE-C0FA7B7F1C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14F6B1C7-763A-4B6A-B0AE-C0FA7B7F1C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14F6B1C7-763A-4B6A-B0AE-C0FA7B7F1C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68406F15-F093-4E23-A107-5B9E66C568BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68406F15-F093-4E23-A107-5B9E66C568BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68406F15-F093-4E23-A107-5B9E66C568BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68406F15-F093-4E23-A107-5B9E66C568BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3DD580-B6DA-49F9-AD95-10A207B307E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3DD580-B6DA-49F9-AD95-10A207B307E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3DD580-B6DA-49F9-AD95-10A207B307E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3DD580-B6DA-49F9-AD95-10A207B307E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,6 +88,9 @@ Global
 		{065757AC-88E3-4C70-9207-88C0BE392251} = {A034B93A-5D73-4A72-93C2-BDB5C7E8C28C}
 		{986C7332-64E2-44C4-A307-CCCA2AF7B6DF} = {9A51922E-4D47-4E42-AA50-C3B2D07E7847}
 		{14F6B1C7-763A-4B6A-B0AE-C0FA7B7F1C9C} = {9A51922E-4D47-4E42-AA50-C3B2D07E7847}
+		{68406F15-F093-4E23-A107-5B9E66C568BE} = {A034B93A-5D73-4A72-93C2-BDB5C7E8C28C}
+		{72F0D1F3-ABD9-40E8-A2BE-749627ABED70} = {36492F15-6278-43A9-B3CE-01D0BE87DE53}
+		{AE3DD580-B6DA-49F9-AD95-10A207B307E7} = {72F0D1F3-ABD9-40E8-A2BE-749627ABED70}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {800E415C-3A0E-4F7A-8AF3-E71321DAA8BE}

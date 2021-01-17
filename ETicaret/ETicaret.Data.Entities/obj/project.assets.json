@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "ETicaret.Common.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ETicaret.Common.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ETicaret.Common.Contracts.dll": {}
+        }
+      },
+      "ETicaret.Data.Entity.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ETicaret.Data.Entity.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ETicaret.Data.Entity.Abstractions.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ETicaret.Common.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../ETicaret.Common.Contracts/ETicaret.Common.Contracts.csproj",
+      "msbuildProject": "../ETicaret.Common.Contracts/ETicaret.Common.Contracts.csproj"
+    },
+    "ETicaret.Data.Entity.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../ETicaret.Data.Entity.Abstractions/ETicaret.Data.Entity.Abstractions.csproj",
+      "msbuildProject": "../ETicaret.Data.Entity.Abstractions/ETicaret.Data.Entity.Abstractions.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "ETicaret.Common.Contracts >= 1.0.0",
+      "ETicaret.Data.Entity.Abstractions >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\nagihan.demir4\\.nuget\\packages\\": {},
@@ -38,7 +73,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nagihan.demir4\\source\\repos\\ETicaret\\ETicaret\\ETicaret.Common.Contracts\\ETicaret.Common.Contracts.csproj": {
+              "projectPath": "C:\\Users\\nagihan.demir4\\source\\repos\\ETicaret\\ETicaret\\ETicaret.Common.Contracts\\ETicaret.Common.Contracts.csproj"
+            },
+            "C:\\Users\\nagihan.demir4\\source\\repos\\ETicaret\\ETicaret\\ETicaret.Data.Entity.Abstractions\\ETicaret.Data.Entity.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\nagihan.demir4\\source\\repos\\ETicaret\\ETicaret\\ETicaret.Data.Entity.Abstractions\\ETicaret.Data.Entity.Abstractions.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
